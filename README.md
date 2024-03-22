@@ -1,5 +1,4 @@
-# Analisis_Datos_Defunciones_Jalisco_por_Region
-*Análisis de datos de defunciones registradas en 2021 por región socieconómica en Jalisco.\
+# Analisis de Datos de Defunciones Registradas en Jalisco por Región Socieconómica en 2021
 Se presenta un análisis de los datos de defunciones registradas durante 2021 en el estado de Jalisco en México por cada una de las 12 regiones socioeconómicas que
 conforman dicho estado.\
 El análisis se enfoca en variables como asistencia médica, derechohabiencia y sitio de ocurrencia (unidad de salud pública, unidad de salud privada, vía pública, hogar),
